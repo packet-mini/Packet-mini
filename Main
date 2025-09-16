@@ -1,1 +1,2 @@
-
+if game.PlaceId ==  then
+print ("bedwars script yay")
